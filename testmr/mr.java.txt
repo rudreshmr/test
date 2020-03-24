@@ -1,0 +1,5 @@
+public class mr {
+
+public static void main(String arag){
+}
+}
